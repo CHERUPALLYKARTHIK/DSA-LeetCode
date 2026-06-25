@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [1920-build-array-from-permutation](https://github.com/CHERUPALLYKARTHIK/DSA-LeetCode/tree/master/1920-build-array-from-permutation) |
 | [3467-transform-array-by-parity](https://github.com/CHERUPALLYKARTHIK/DSA-LeetCode/tree/master/3467-transform-array-by-parity) |
 ## Sorting
 |  |
@@ -13,4 +14,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3467-transform-array-by-parity](https://github.com/CHERUPALLYKARTHIK/DSA-LeetCode/tree/master/3467-transform-array-by-parity) |
+## Simulation
+|  |
+| ------- |
+| [1920-build-array-from-permutation](https://github.com/CHERUPALLYKARTHIK/DSA-LeetCode/tree/master/1920-build-array-from-permutation) |
 <!---LeetCode Topics End-->
