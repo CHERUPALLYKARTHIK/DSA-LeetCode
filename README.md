@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0885-spiral-matrix-iii](https://github.com/CHERUPALLYKARTHIK/DSA-LeetCode/tree/master/0885-spiral-matrix-iii) |
 | [1409-queries-on-a-permutation-with-key](https://github.com/CHERUPALLYKARTHIK/DSA-LeetCode/tree/master/1409-queries-on-a-permutation-with-key) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/CHERUPALLYKARTHIK/DSA-LeetCode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/CHERUPALLYKARTHIK/DSA-LeetCode/tree/master/1470-shuffle-the-array) |
@@ -23,11 +24,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0885-spiral-matrix-iii](https://github.com/CHERUPALLYKARTHIK/DSA-LeetCode/tree/master/0885-spiral-matrix-iii) |
 | [1409-queries-on-a-permutation-with-key](https://github.com/CHERUPALLYKARTHIK/DSA-LeetCode/tree/master/1409-queries-on-a-permutation-with-key) |
 | [1920-build-array-from-permutation](https://github.com/CHERUPALLYKARTHIK/DSA-LeetCode/tree/master/1920-build-array-from-permutation) |
 ## Matrix
 |  |
 | ------- |
+| [0885-spiral-matrix-iii](https://github.com/CHERUPALLYKARTHIK/DSA-LeetCode/tree/master/0885-spiral-matrix-iii) |
 | [1672-richest-customer-wealth](https://github.com/CHERUPALLYKARTHIK/DSA-LeetCode/tree/master/1672-richest-customer-wealth) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/CHERUPALLYKARTHIK/DSA-LeetCode/tree/master/2545-sort-the-students-by-their-kth-score) |
 ## Binary Indexed Tree
